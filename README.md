@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34995115/README.md)
+
 # Hi 👋, I'm mxskxm
 
 ### макс
