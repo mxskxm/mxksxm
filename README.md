@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm mxskxm
 
-### макс
+### Max
 
 - 🌱 I'm currently learning **python**
 
